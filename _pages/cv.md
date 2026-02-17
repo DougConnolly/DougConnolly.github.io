@@ -11,11 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+University of Iowa, Iowa City, IA, United States
+* PhD in Mathematics August 2021
+* M.S. in Mathematics May 2018
 
-Work experience
+Kenyon College, Gambier, OH, United States
+* B.A. in Mathematics and Physics, graduated cum laude May 2015
+* Minor in Philosophy, concentration in Scientific Computing
+
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
