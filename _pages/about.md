@@ -11,6 +11,23 @@ Thanks for visiting my website!
 
 Nick's Professional Website
 ======
+
+I am currently working at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan as a postdoc in the Quantum Information Science and Technology Unit (Nemoto Unit).
+
+From 2021 through August, 2023 I worked as a postdoc at Inria, the National Institute for Research in Digital Science and Technology, in Paris, France. My project was related to quantum error correction.
+
+I received a PhD in mathematics from the University of Iowa in 2021. My research focused on knot theory and the tabulation of 2-string tangles.
+
+Graduate Research
+======
+
+My graduate research focused on the knot theoretic structures known as tangles. A tangle can be understood as a sphere embedded with multiple entwined strings. While a tangle is a three dimensional object, mathematicians study them using tangle diagrams, the projected shadow of a tangle onto a two dimensional surface. The primary way to study tangles is through exploring the combinatorics of tangle diagrams.
+
+The goal of my research is to exhaustively tabulate and classify 2-string tangles up to a fixed crossing number. I am creating a database to enumerate the preferred constructions for known tangles together with their structural properties. Tangles can be divided into families based on their construction. Some families are well understood while others have not yet been classified uniquely. In addition to computationally constructing a database, I am also working to improve the theoretical description of these tangle families. In particular, I am using graph theory to classify non-algebraic tangle diagrams.
+
+End
+======
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
