@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website!
-
-Nick's Professional Website
+About
 ======
 
-I am currently working at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan as a postdoc in the Quantum Information Science and Technology Unit (Nemoto Unit).
+I am currently working as a postdoc at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan in the Quantum Information Science and Technology Unit (Nemoto Unit).
 
 From 2021 through August, 2023 I worked as a postdoc at Inria, the National Institute for Research in Digital Science and Technology, in Paris, France. My project was related to quantum error correction.
 
