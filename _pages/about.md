@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Welcome to the Website of Nick Connolly"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About
-======
 
 I am currently working as a postdoc at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan in the Quantum Information Science and Technology Unit (Nemoto Unit).
 
