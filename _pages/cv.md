@@ -22,34 +22,41 @@ redirect_from:
 ## Research Experience
 
 **Postdoctoral Researcher at OIST, Quantum Architecture Unit**, Okinawa, Japan; 2024-present
+
 _Research in quantum information theory under Kae Nemoto and Bill Munro_
 * Adapted graph theory techniques to quantum communication problems
 * Optimized resources for the preparation of quantum graph states
 
 **Postdoctoral Researcher at INRIA Paris, COSMIQ Unit**, Paris, France; 2021-2023
+
 _Research in LDPC QEC under Anthony Leverrier and Nicolas Delfosse_
 * Studied and applied quantum error correction algorithms in Python
 * Developed a new erasure decoding algorithm for quantum HGP codes
 
 **Doctoral Student in Mathematics at the University of Iowa**, Iowa, USA; 2015-2021
+
 _Research in topology, knot theory, and graph theory under Isabel Darcy_
 * Translated theoretical constructions to computational algorithms in C
 * Created a prototype SQL database cataloging 2-string tangles
 
 **NSF-MSGI Internship at USACE Geospatial Research Laboratory**, Virginia, USA; Summer 2020
+
 _Research in multi-modal time series data analysis under Charlotte Ellison_
 * Implemented graph techniques in Python to analyze time series data
 * Documented and presented results internally (non-published preprint)
 
 **Research Internship with Japanese AI startup UsideU**, Tokyo, Japan; Summer 2019
+
 _Research in machine learning and AI data analysis under Alireza Goudarzi_
 * Automated AI pipeline in Python for analysis of figure motion data
 
 **PI4-IMA Internship with American energy company Ameren**, Illinois, USA; Summer 2019
+
 _Research in data science and computer vision under Gui Maia_
 * Automated PDF reading in Python using optical character recognition
 
 **Kenyon College Summer Science Scholars Program**, Ohio, USA; Summer 2014
+
 _Research in classical code construction and error correction under Nuh Aydin_
 * Discovered constructions in Magma for over 150 new optimal codes
 
