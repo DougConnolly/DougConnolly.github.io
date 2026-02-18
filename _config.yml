@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Nicholas Connolly"
   pronouns         : # example: "she/her"  
-  bio              : "Currently a postdoc in the Quantum Information Science and Technology Unit (Nemoto Unit), OIST"
+  bio              : "Postdoc in the Quantum Information Science and Technology Unit (Nemoto Unit), Okinawa Institute of Science and Technology (OIST)"
   location         : "Okinawa, Japan"
-  employer         : "Okinawa Institute of Science and Technology"
+  employer         : "OIST"
   uri              : # URL
   email            : "nicholas.connolly@oist.jp" 
 
