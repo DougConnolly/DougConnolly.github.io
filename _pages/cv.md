@@ -21,6 +21,12 @@ Kenyon College, Gambier, OH, United States
 
 Research Experience
 ======
+Postdoctoral Researcher at OIST, Quantum Architecture Unit
+Research in quantum information theory under Kae Nemoto and Bill Munro
+• Adapted graph theory techniques to quantum communication problems
+• Optimized resources for the preparation of quantum graph states
+
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
