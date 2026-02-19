@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a postdoc at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan in the Quantum Architecture Unit.
+I am currently working as a postdoc at the Okinawa Institute of Science and Technology (OIST) in Okinawa Japan in the Quantum Architecture Unit.
 
 Prior to joining OIST, I worked as a postdoc at Inria, the National Institute for Research in Digital Science and Technology, in Paris, France (2021 to August, 2023). My project was related to quantum error correction.
 
