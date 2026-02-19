@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a postdoc at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan in the Quantum Information Science and Technology Unit (Nemoto Unit).
+I am currently working as a postdoc at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan in the Quantum Architecture Unit.
 
-From 2021 through August, 2023 I worked as a postdoc at Inria, the National Institute for Research in Digital Science and Technology, in Paris, France. My project was related to quantum error correction.
+Prior to joining OIST, I worked as a postdoc at Inria, the National Institute for Research in Digital Science and Technology, in Paris, France (2021 to August, 2023). My project was related to quantum error correction.
 
 I received a PhD in mathematics from the University of Iowa in 2021. My research focused on knot theory and the tabulation of 2-string tangles.
 
