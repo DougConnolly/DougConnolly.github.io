@@ -68,6 +68,17 @@ Basic: R, MATLAB, Mathematica, Magma, Maple, Origin, HTML, PHP
 ## Languages
 English (native), Japanese (conversational), French (conversational)
 
+### Technical Skills
+
+| Level            | Item                                                         |
+| --------         | ------------------------------------------------------------ |
+| Proficient       | Python, C/C++, SQL, LaTeX                                    |
+| Basic            | R, MATLAB, Mathematica, Magma, Maple, Origin, HTML, PHP      |
+
+Languages
+:   English (native), Japanese (conversational), French (conversational)
+
+
 ## Publications and Preprints
 
 **Connolly, N.**, Nishio, S., Munro, W. J., and Nemoto, K. (2026). Efficient preparation of distance-hereditary graph states via local-Clifford optimization. _preprint_
