@@ -21,10 +21,10 @@ redirect_from:
 
 ## Research Experience
 
-**Postdoctoral Researcher at OIST, Quantum Architecture Unit**, Okinawa, Japan; 2024-present<br>
+* **Postdoctoral Researcher at OIST, Quantum Architecture Unit**, Okinawa, Japan; 2024-present<br>
 _Research in quantum information theory under Kae Nemoto and Bill Munro_
-* Adapted graph theory techniques to quantum communication problems
-* Optimized resources for the preparation of quantum graph states
+    * Adapted graph theory techniques to quantum communication problems
+    * Optimized resources for the preparation of quantum graph states
 
 **Postdoctoral Researcher at INRIA Paris, COSMIQ Unit**, Paris, France; 2021-2023<br>
 _Research in LDPC QEC under Anthony Leverrier and Nicolas Delfosse_
