@@ -11,13 +11,13 @@ redirect_from:
 
 ## Education
 
-**University of Iowa**, Iowa City, IA, United States
-* PhD in Mathematics August 2021
-* M.S. in Mathematics May 2018
+* **University of Iowa**, Iowa City, IA, United States
+    * PhD in Mathematics August 2021
+    * M.S. in Mathematics May 2018
 
-**Kenyon College**, Gambier, OH, United States
-* B.A. in Mathematics and Physics, graduated cum laude May 2015
-* Minor in Philosophy, concentration in Scientific Computing
+* **Kenyon College**, Gambier, OH, United States
+    * B.A. in Mathematics and Physics, graduated cum laude May 2015
+    * Minor in Philosophy, concentration in Scientific Computing
 
 ## Research Experience
 
