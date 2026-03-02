@@ -60,24 +60,15 @@ _Research in data science and computer vision under Gui Maia_
 _Research in classical code construction and error correction under Nuh Aydin_
 * Discovered constructions in Magma for over 150 new optimal codes
 
-## Technical Skills
-
-Proficient: Python, C/C++, SQL, LaTeX
-Basic: R, MATLAB, Mathematica, Magma, Maple, Origin, HTML, PHP
-
-## Languages
-English (native), Japanese (conversational), French (conversational)
-
 ### Technical Skills
 
-| Level            | Item                                                         |
+| Level            |                                                              |
 | --------         | ------------------------------------------------------------ |
 | Proficient       | Python, C/C++, SQL, LaTeX                                    |
 | Basic            | R, MATLAB, Mathematica, Magma, Maple, Origin, HTML, PHP      |
 
-Languages
+### Languages
 :   English (native), Japanese (conversational), French (conversational)
-
 
 ## Publications and Preprints
 
