@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf of my CV [here](https://dougconnolly.github.io/files/Nicholas_Connolly_Resume_2026.pdf "Nick Connolly").
-
 Download a pdf of my CV [here](/files/Nicholas_Connolly_Resume_2026.pdf "Nick Connolly").
 
 ## Education
@@ -55,7 +53,7 @@ _Research in data science and computer vision under Gui Maia_
 
 * **Kenyon College Summer Science Scholars Program**, Ohio, USA; Summer 2014<br>
 _Research in classical code construction and error correction under Nuh Aydin_
-    * Discovered constructions in Magma for over 150 new optimal codes<br><br>
+    * Discovered constructions in Magma for over 150 new optimal codes<br>
 
 ### Technical Skills
 
