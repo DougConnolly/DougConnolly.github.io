@@ -25,34 +25,34 @@ Download a pdf of my CV here.
 * **Postdoctoral Researcher at OIST, Quantum Architecture Unit**, Okinawa, Japan; 2024-present<br>
 _Research in quantum information theory under Kae Nemoto and Bill Munro_
     * Adapted graph theory techniques to quantum communication problems
-    * Optimized resources for the preparation of quantum graph states
+    * Optimized resources for the preparation of quantum graph states<br><br>
 
 * **Postdoctoral Researcher at INRIA Paris, COSMIQ Unit**, Paris, France; 2021-2023<br>
 _Research in LDPC QEC under Anthony Leverrier and Nicolas Delfosse_
     * Studied and applied quantum error correction algorithms in Python
-    * Developed a new erasure decoding algorithm for quantum HGP codes
+    * Developed a new erasure decoding algorithm for quantum HGP codes<br><br>
 
 * **Doctoral Student in Mathematics at the University of Iowa**, Iowa, USA; 2015-2021<br>
 _Research in topology, knot theory, and graph theory under Isabel Darcy_
     * Translated theoretical constructions to computational algorithms in C
-    * Created a prototype SQL database cataloging 2-string tangles
+    * Created a prototype SQL database cataloging 2-string tangles<br><br>
 
 * **NSF-MSGI Internship at USACE Geospatial Research Laboratory**, Virginia, USA; Summer 2020<br>
 _Research in multi-modal time series data analysis under Charlotte Ellison_
     * Implemented graph techniques in Python to analyze time series data
-    * Documented and presented results internally (non-published preprint)
+    * Documented and presented results internally (non-published preprint)<br><br>
 
 * **Research Internship with Japanese AI startup UsideU**, Tokyo, Japan; Summer 2019<br>
 _Research in machine learning and AI data analysis under Alireza Goudarzi_
-    * Automated AI pipeline in Python for analysis of figure motion data
+    * Automated AI pipeline in Python for analysis of figure motion data<br><br>
 
 * **PI4-IMA Internship with American energy company Ameren**, Illinois, USA; Summer 2019<br>
 _Research in data science and computer vision under Gui Maia_
-    * Automated PDF reading in Python using optical character recognition
+    * Automated PDF reading in Python using optical character recognition<br><br>
 
 * **Kenyon College Summer Science Scholars Program**, Ohio, USA; Summer 2014<br>
 _Research in classical code construction and error correction under Nuh Aydin_
-    * Discovered constructions in Magma for over 150 new optimal codes
+    * Discovered constructions in Magma for over 150 new optimal codes<br><br>
 
 ### Technical Skills
 
