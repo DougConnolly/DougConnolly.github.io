@@ -11,6 +11,8 @@ redirect_from:
 
 Download a pdf of my CV [here](https://dougconnolly.github.io/files/Nicholas_Connolly_Resume_2026.pdf "Nick Connolly").
 
+Download a pdf of my CV [here](/files/Nicholas_Connolly_Resume_2026.pdf "Nick Connolly").
+
 ## Education
 
 * **University of Iowa**, Iowa City, IA, United States
