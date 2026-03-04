@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download a pdf of my CV here.
+Download a pdf of my CV [here] (files/Nicholas_Connolly_Resume_2026.pdf).
 
 ## Education
 
