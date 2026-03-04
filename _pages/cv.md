@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download a pdf of my CV [here] (https://dougconnolly.github.io/files/Nicholas_Connolly_Resume_2026.pdf).
+
+Download a pdf of my CV [here](https://dougconnolly.github.io/files/Nicholas_Connolly_Resume_2026.pdf "Nick Connolly").
 
 ## Education
 
@@ -62,7 +63,7 @@ _Research in classical code construction and error correction under Nuh Aydin_
 | Basic            | R, MATLAB, Mathematica, Magma, Maple, Origin, HTML, PHP      |
 
 ### Languages
-:   English (native), Japanese (conversational), French (conversational)
+* English (native), Japanese (conversational), French (conversational)
 
 ## Publications and Preprints
 
