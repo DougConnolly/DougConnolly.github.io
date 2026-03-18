@@ -4,7 +4,7 @@ title: "Teaching and Outreach"
 ---
 ## Math and Science Outreach events with the OIST Community
 
-Since 2024 I have participated in a number of events in Okinawa that are focused on introducing middle school and high school students to the world of science and mathematics. This has involved making presentations to young people and leading group activities. For me, these activities have been among the most satisfying parts of living and working in Japan. It has also allowed me to communicate core mathematics concepts in both English and Japanese. Some of the resources that were used at these events are linked below.
+Since 2024 I have regularly taken part in events in Okinawa that are focused on introducing middle school and high school students to the world of science and mathematics. This has involved making presentations to young people and leading group activities. For me, these activities have been among the most satisfying parts of living and working in Japan. This has also allowed me to communicate core mathematics concepts in both English and Japanese. Some of the resources that were used at these events are linked below.
  
 * Graph Local Equivalence Classes. Science Day Gunma 2025--The World of Quantum Mechanics, science outreach presentation at Gunma University, October 2025
 
