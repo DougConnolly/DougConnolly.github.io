@@ -6,11 +6,11 @@ title: "Teaching and Outreach"
 
 Since 2024 I have regularly taken part in events in Okinawa that are focused on introducing middle school and high school students to the world of science and mathematics. This has involved making presentations to young people and leading group activities. For me, these activities have been among the most satisfying parts of living and working in Japan. This has also allowed me to communicate core mathematics concepts in both English and Japanese. Some of the resources that were used at these events are linked below.
  
-* Graph Local Equivalence Classes. Science Day Gunma 2025--The World of Quantum Mechanics, science outreach presentation at Gunma University, October 2025
+* [Graph Local Equivalence Classes](/files/Connollly_GunmaScienceDay2025.pdf). Science Day Gunma 2025--The World of Quantum Mechanics, science outreach presentation at Gunma University, October 2025
 
-* Mathematics with Games. Onna x OIST Children's School of Science 2025, presentation at OIST, August 2024, and August 2025
+* [Mathematics with Games](/files/MathematicsWithGames_v2.pdf). Onna x OIST Children's School of Science 2025, presentation at OIST, August 2024, and August 2025
 
-* Thinking Mathematically: Searching for Patterns! (Japanese language version) Science outreach presentations for middle school students visiting OIST, 2025
+* [Thinking Mathematically: Searching for Patterns!](/files/ThinkingMathematically.pdf) ([Japanese language version](/files/ThinkingMathematically_jp.pdf "Japanese Language Version")) Science outreach presentations for middle school students visiting OIST, 2025
 
 ## Graduate teaching assistant in mathematics at the University of Iowa, 2015-2021
 
